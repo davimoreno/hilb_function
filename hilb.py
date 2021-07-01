@@ -23,7 +23,7 @@ def hilb(L, window='boxcar'):
 #            Length of filter (odd number).
 #   window : string, float, or tuple 
 #            Type of window used (see 'window' parameter of 
-#            scipy.signal.windows.get_window for details); retangular window 
+#            scipy.signal.windows.get_window for details); rectangular window 
 #            ('boxcar') is the default window.
 # Return:
 #        h : numpy.ndarray
